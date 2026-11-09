@@ -1,2 +1,2 @@
 # Gallery
-mini photo gallery
+my photo gallery
